@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1790622572182" clover="3.2.0">
+  <project timestamp="1790622572182" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1" elements="17" coveredelements="17" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="taxaEntrega.js" path="C:\Users\maxga\Documents\Codes\lab-teste-software-iso\taxaEntrega.js">
+      <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="2" count="11" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
